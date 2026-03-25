@@ -1,4 +1,4 @@
-# Awesome Claude Code（繁體中文整理版）
+# Awesome Claude Skills（繁體中文整理版）
 
 > 精選的 Claude Code 工作流程強化工具：技能包、代理、插件、鉤子與各類實用資源。
 
